@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="../AdventureAdmin.WebApi/AdventureAdmin.WebApi.csproj" />
+  <Project Path="AdventureAdmin.Data/AdventureAdmin.Data.csproj" />
+  <Project Path="AdventureAdmin.Ui/AdventureAdmin.Ui.csproj" />
+</Solution>
