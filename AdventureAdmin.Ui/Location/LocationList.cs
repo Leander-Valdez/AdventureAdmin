@@ -50,12 +50,3 @@ namespace AdventureAdmin.Ui.Location
         
         }
     }
-
-
-
-
-
-
-
-
-   
