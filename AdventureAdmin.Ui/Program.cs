@@ -47,5 +47,8 @@ static class Program
         services.AddTransient<LocationForm>();
         services.AddTransient<DepartmentList>();
         services.AddTransient<DepartmentForm>();
+        services.AddTransient<ProductDescriptionList>();
+        services.AddTransient<ProductDescriptionForm>();
     }
 }
+
